@@ -1,0 +1,9 @@
+/* Additional app-specific styles */
+.blog-content {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.prose {
+  line-height: 1.7;
+}
